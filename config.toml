@@ -1,8 +1,8 @@
 baseURL = "https://chris.rudmin.com/"
-languageCode = "jp"
+languageCode = "fr"
 theme = "raditian-free-hugo-theme"
 
-defaultContentLanguage = 'jp'
+defaultContentLanguage = 'fr'
 
 [languages]
     [languages.fr]
@@ -17,11 +17,6 @@ defaultContentLanguage = 'jp'
         languageFlag = "🇬🇧"
         weight = 3
 
-    [languages.jp]
-        languageName = "Japanese"
-        languageNameShort = "JP"
-        languageFlag = "🇯🇵"
-        weight = 2
 
 # Plugins
 [params.plugins]
@@ -79,7 +74,7 @@ defaultContentLanguage = 'jp'
 
 [params]
 
-  sections = ["showcase", "about", "experience", "client-and-work", "testimonial", "contact"]
+  sections = ["showcase", "about", "experience", "testimonial", "contact"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
