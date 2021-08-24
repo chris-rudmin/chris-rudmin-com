@@ -1,0 +1,88 @@
+baseURL = "https://chris.rudmin.com/"
+languageCode = "jp"
+theme = "raditian-free-hugo-theme"
+
+defaultContentLanguage = 'jp'
+
+[languages]
+    [languages.fr]
+        languageName = "Français"
+        languageNameShort = "FR"
+        languageFlag = "🇫🇷"
+        weight = 1
+
+    [languages.en]
+        languageName = "English"
+        languageNameShort = "EN"
+        languageFlag = "🇬🇧"
+        weight = 3
+
+    [languages.jp]
+        languageName = "Japanese"
+        languageNameShort = "JP"
+        languageFlag = "🇯🇵"
+        weight = 2
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.header]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+  [[menu.footer]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
+
+
+[params]
+
+  sections = ["showcase", "about", "experience", "client-and-work", "testimonial", "contact"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Rudmin"
+    text2 = "Chris"
