@@ -6,8 +6,8 @@ head:
 showcase:
   enable: true
   title: "I’m Chris."
-  subtitle: "Your Personal Technology Consultant"
-  description: "I am a software developer based in Petite Nation, Quebec. I love all things about the modern web and digital business."
+  subtitle: "Tech Guru"
+  description: "I am a software developer based in Petite Nation, Quebec. I love all things automation, modern web and digital business. I offer software consulting and software creation services."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -31,10 +31,10 @@ about:
   enable: true
   title: "Need Help?"
   content: '<p class="lead">
-    Do you have repetetive business processes that are begging to be automated? Are you subscribed to many webservices that you wish could work together?
+    Do you need clarity on technology choices. Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas?
     </p>
     <p class="lead">
-    I create custom software solutions which solve your business problems.
+    I would love to understand your technology problem and craft an efficient solution to it.
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -68,7 +68,7 @@ experience:
     Creating applications and documentation for many platforms: web, mobile, desktop, server.
     </p>
     <p class="lead">
-    Worked with many common SAAS provider APIs: Shopify, Google, Xero, AWS, Slack, Twilio
+    Worked with many common SAAS provider APIs: Shopify, Stripe, Google, Xero, AWS, Slack, Twilio
     </p>'
   button:
     icon: "icon-linkedin-fill"
