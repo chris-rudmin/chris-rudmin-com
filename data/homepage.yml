@@ -6,8 +6,8 @@ head:
 showcase:
   enable: true
   title: "I’m Chris."
-  subtitle: "Your Personal Software Consultant"
-  description: "I am a software developer based in Petite Nation, Quebec. I love all things about the modern web. Online shops and digital business."
+  subtitle: "Your Personal Technology Consultant"
+  description: "I am a software developer based in Petite Nation, Quebec. I love all things about the modern web and digital business."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -31,10 +31,10 @@ about:
   enable: true
   title: "Need Help?"
   content: '<p class="lead">
-    Do you have repetetive business processes that are begging to be automated? Do you subscribed to many webservices that you would like to work together?
+    Do you have repetetive business processes that are begging to be automated? Are you subscribed to many webservices that you wish could work together?
     </p>
     <p class="lead">
-    Build web apps, and suggest technology stacks
+    I create custom software solutions which solve your business problems.
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -61,7 +61,15 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "More than 20+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: '<p class="lead">
+    More than 20 years working in varied fields: Software Development, Networking, System Administration, Security, Realtime Communications, Audio and Recording.
+    </p>
+    <p class="lead">
+    Creating applications and documentation for many platforms: web, mobile, desktop, server.
+    </p>
+    <p class="lead">
+    Worked with many common SAAS provider APIs: Shopify, Google, Xero, AWS, Slack, Twilio
+    </p>'
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
