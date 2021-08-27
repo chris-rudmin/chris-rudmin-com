@@ -1,6 +1,6 @@
 baseURL = "https://chris.rudmin.com/"
 languageCode = "fr"
-theme = "raditian-free-hugo-theme"
+theme = "raditian-theme"
 
 defaultContentLanguage = 'fr'
 

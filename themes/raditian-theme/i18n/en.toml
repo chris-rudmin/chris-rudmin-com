@@ -1,0 +1,35 @@
+[home]
+other = 'HOME'
+
+[showcaseTitle]
+other = 'I’m Chris.'
+
+[showcaseSubTitle]
+other = 'Your Tech Guru'
+
+[showcaseBody]
+other = 'I am a software developer based in Petite Nation, Quebec. I love all things automation, modern web and digital business. I offer consulting and software development contracting services.'
+
+[showcaseButton]
+other = 'Ask me a question'
+
+[aboutTitle] 
+other = "Need Help?"
+
+[aboutBody1]
+other = "Do you need clarity on your technology choices? Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas?"
+   
+[aboutBody2]
+other = "I would love to understand your tech problems and craft an efficient solution to it."
+
+[experienceTitle]
+other = "Why Me?"
+
+[experienceDescription1]
+other = "More than 20 years working in a variety of IT fields and roles: Software Development, System Administration, Security, Realtime Communications, Audio and Recording."
+
+[experienceDescription2]
+other = "Created applications and documentation for many platforms: web, mobile, desktop, server."
+
+[experienceDescription3]
+other = "Worked with many common SAAS provider APIs: Shopify, Stripe, Google, Xero, AWS, Slack, Twilio"

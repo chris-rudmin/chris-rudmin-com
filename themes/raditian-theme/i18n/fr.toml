@@ -1,0 +1,14 @@
+[home]
+other = 'ACCUEIL'
+
+[showcaseTitle]
+other = 'Je suis Chris.'
+
+[showcaseSubTitle]
+other = 'Votre gourou technologique'
+
+[showcaseBody]
+other = "Je suis un développeur de logiciels basé à Petite Nation, Québec. J'aime tout ce qui concerne l'automatisation, le web moderne et les affaires numériques. J'offre des services de consultation et de développement de logiciels contractuel."
+
+[showcaseButton]
+other = 'Posez-moi tes questions'
