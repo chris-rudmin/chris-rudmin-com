@@ -1,7 +1,3 @@
-# head
-head:
-  title: "Chris Rudmin Software Developer"
-
 # showcase
 showcase:
   enable: true
@@ -35,37 +31,6 @@ education:
 # experience
 experience:
   enable: true
-  title: "Why Me?"
-  description: '<p class="lead">
-    More than 20 years working in a variety of IT fields and roles: Software Development, System Administration, Security, Realtime Communications, Audio and Recording.
-    </p>
-    <p class="lead">
-    Created applications and documentation for many platforms: web, mobile, desktop, server.
-    </p>
-    <p class="lead">
-    Worked with many common SAAS provider APIs: Shopify, Stripe, Google, Xero, AWS, Slack, Twilio
-    </p>'
-  button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "#"
-
-  items:
-    - title: "Build Websites"
-      company: "Javascript, Jamstack, Firebase, React, AWS"
-
-    - title: "Integrate Services"
-      company: "Shopify, Xero, Stripe, Mailgun, Slack"
-
-    - title: "Open Source"
-      company: "Contributor and Maintainer"
-
-    - title: "Web Serial, WASM, Web Audio"
-      company: "Hardware, Software, Audio"
 
 # Client & Work
 client_and_work:

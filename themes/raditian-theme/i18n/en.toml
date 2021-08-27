@@ -1,3 +1,6 @@
+[title]
+other = "Chris Rudmin Software Developer"
+
 [home]
 other = 'HOME'
 
@@ -33,3 +36,27 @@ other = "Created applications and documentation for many platforms: web, mobile,
 
 [experienceDescription3]
 other = "Worked with many common SAAS provider APIs: Shopify, Stripe, Google, Xero, AWS, Slack, Twilio"
+
+[experienceBullet1]
+other = "Build Web Apps"
+
+[experienceBulletSub1]
+other = "Javascript, Jamstack, Firebase, React"
+
+[experienceBullet2]
+other = "Integrate SAAS Providers"
+
+[experienceBulletSub2]
+other = "Shopify, Stripe, Google, Slack"
+
+[experienceBullet3]
+other = "Open Source Software"
+
+[experienceBulletSub3]
+other = "Contributor and Maintainer"
+
+[experienceBullet4]
+other = "Web Serial, WASM, Web Audio"
+
+[experienceBulletSub4]
+other = "Hardware, Software, Audio"
