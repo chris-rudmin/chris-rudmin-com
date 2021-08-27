@@ -6,8 +6,8 @@ head:
 showcase:
   enable: true
   title: "I’m Chris."
-  subtitle: "Tech Guru"
-  description: "I am a software developer based in Petite Nation, Quebec. I love all things automation, modern web and digital business. I offer software consulting and software creation services."
+  subtitle: "Your Tech Guru"
+  description: "I am a software developer based in Petite Nation, Quebec. I love all things automation, modern web and digital business. I offer consulting and software development services."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -31,18 +31,18 @@ about:
   enable: true
   title: "Need Help?"
   content: '<p class="lead">
-    Do you need clarity on technology choices. Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas?
+    Do you need clarity on your technology choices? Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas?
     </p>
     <p class="lead">
-    I would love to understand your technology problem and craft an efficient solution to it.
+    I would love to understand your tech problems and craft an efficient solution to it.
     </p>'
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/company/radity/"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/user-picture.jpg"
+    _2x: "img/who-am-i/user-picture@2x.jpg"
 
 # education
 education:
@@ -62,10 +62,10 @@ experience:
   enable: true
   title: "Experience"
   description: '<p class="lead">
-    More than 20 years working in varied fields: Software Development, Networking, System Administration, Security, Realtime Communications, Audio and Recording.
+    More than 20 years working in a variety of IT fields: Software Development, System Administration, Security, Realtime Communications, Audio and Recording.
     </p>
     <p class="lead">
-    Creating applications and documentation for many platforms: web, mobile, desktop, server.
+    Created applications and documentation for many platforms: web, mobile, desktop, server.
     </p>
     <p class="lead">
     Worked with many common SAAS provider APIs: Shopify, Stripe, Google, Xero, AWS, Slack, Twilio
