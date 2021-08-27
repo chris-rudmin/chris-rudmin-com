@@ -6,15 +6,13 @@ defaultContentLanguage = 'fr'
 
 [languages]
     [languages.fr]
-        languageName = "Français"
+        languageName = "FRANÇAIS"
         languageNameShort = "FR"
-        languageFlag = "🇫🇷"
         weight = 1
 
     [languages.en]
-        languageName = "English"
+        languageName = "ENGLISH"
         languageNameShort = "EN"
-        languageFlag = "🇬🇧"
         weight = 3
 
 
