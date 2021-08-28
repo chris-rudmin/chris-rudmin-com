@@ -52,7 +52,7 @@ defaultContentLanguage = 'fr'
 
 [params]
 
-  sections = ["showcase", "about", "experience", "testimonial", "contact"]
+  sections = ["showcase", "about", "experience", "testimonial", "client-and-work", "contact"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 

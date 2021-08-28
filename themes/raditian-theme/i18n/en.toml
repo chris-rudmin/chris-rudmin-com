@@ -21,21 +21,21 @@ other = "Need Help?"
 
 [aboutBody1]
 other = "Do you need clarity on your technology choices? Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas?"
-   
+
 [aboutBody2]
 other = "I would love to understand your tech problems and craft an efficient solution to it."
 
 [experienceTitle]
-other = "Why Me?"
+other = "Choose Me!"
 
 [experienceDescription1]
-other = "More than 20 years working in a variety of IT fields and roles: Software Development, System Administration, Security, Realtime Communications, Audio and Recording."
+other = "More than 20 years of experience working in a variety of IT fields and roles: Software Development, System Administration, Security, Realtime Communications, Audio and Recording."
 
 [experienceDescription2]
 other = "Created applications and documentation for many platforms: web, mobile, desktop, server."
 
 [experienceDescription3]
-other = "Worked with many common SAAS provider APIs: Shopify, Stripe, Google, Xero, AWS, Slack, Twilio"
+other = "Worked with many common SAAS provider APIs: Shopify, Stripe, Google, Xero, AWS, Slack, Twilio."
 
 [experienceBullet1]
 other = "Build Web Apps"
@@ -56,7 +56,19 @@ other = "Open Source Software"
 other = "Contributor and Maintainer"
 
 [experienceBullet4]
-other = "Web Serial, WASM, Web Audio"
+other = "Modern Web Features"
 
 [experienceBulletSub4]
-other = "Hardware, Software, Audio"
+other = "Web Serial Hardware, WASM, Web Audio"
+
+[testimonialSectionTitle]
+other = "Clients"
+
+[testimonialTitle]
+other = "Grazing Days Farm"
+
+[testimonialSubTitle]
+other = "Paul Slomp & Josée Cyr-Charlebois"
+
+[testimonialBody]
+other = "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
