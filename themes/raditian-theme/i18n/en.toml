@@ -20,10 +20,10 @@ other = 'Ask me a question'
 other = "Need Help?"
 
 [aboutBody1]
-other = "Do you need clarity on your technology choices? Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas?"
+other = "Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas? Would you like to know more about what options are available to you?"
 
 [aboutBody2]
-other = "I would love to understand your tech problems and craft an efficient solution to it."
+other = "I would love to understand where you need help and then craft an efficient and beautiful solution."
 
 [experienceTitle]
 other = "Choose Me!"
