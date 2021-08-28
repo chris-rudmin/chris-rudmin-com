@@ -32,7 +32,7 @@ other = "Choose Me!"
 other = "More than 20 years of experience working in a variety of IT fields and roles: Software Development, System Administration, Security, Realtime Communications, Audio and Recording."
 
 [experienceDescription2]
-other = "Created applications and documentation for many platforms: web, mobile, desktop, server."
+other = "Created multi-platform applications: web, mobile, desktop, server."
 
 [experienceDescription3]
 other = "Worked with many common SAAS provider APIs: Shopify, Stripe, Google, Xero, AWS, Slack, Twilio."
@@ -62,7 +62,7 @@ other = "Modern Web Features"
 other = "Web Serial Hardware, WASM, Web Audio"
 
 [testimonialSectionTitle]
-other = "Clients"
+other = "Testimonials"
 
 [testimonialTitle]
 other = "Grazing Days Farm"
