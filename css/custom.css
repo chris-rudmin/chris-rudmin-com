@@ -1,0 +1,16 @@
+.testimonial__author-image {
+  width: 112px;
+  height: 112px;
+}
+
+.testimonial__author {
+  margin-bottom:  30px;
+}
+
+.icon-quote {
+  font-size: 80px;
+  position: absolute;
+  top: 90px;
+  left: -35px;
+  opacity: 0.1;
+}
