@@ -54,22 +54,15 @@ client_and_work:
 # contact
 contact:
   enable: true
-  title: "Contact"
   form:
     action: "https://getform.io/f/d61c29f1-1c23-49fe-a235-867d6ba1142c"
     method: "POST"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
   phone:
-    title: "Phone or SMS"
     number: '<a href="tel:18192007766">1 819 200 7766</a>'
   email:
-    title: "Email"
     email: '<a href="mailto:chris@rudmin.com">chris@rudmin.com</a>'
   button:
     icon: "icon-mail-fill"
-    btnText: "Send Message"
 
 # newsletter
 newsletter:

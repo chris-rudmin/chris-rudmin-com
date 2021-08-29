@@ -29,7 +29,7 @@ other = "Need Help?"
 other = "Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas? Would you like to know more about what options are available to you?"
 
 [aboutBody2]
-other = "Contact me to discuss your business needs and requirements and we can create a proposal. From there all that is left is to craft an efficient and beautiful solution."
+other = "Contact me to discuss your business requirements. I will create a proposal, and from there all that is left is to craft an efficient and elegant solution."
 
 [experienceTitle]
 other = "Choose Me!"
@@ -81,3 +81,21 @@ other = "In this digital generation where information can be easily obtained wit
 
 [contactTitle]
 other = "Contact"
+
+[contactFullName]
+other = "Full Name"
+
+[contactEmailPlaceholder]
+other = "Email Address"
+
+[contactBody]
+other = "Type Your Message Here"
+
+[contactSend]
+other = "Send Message"
+
+[contactPhone]
+other = "Phone or SMS"
+
+[contactEmail]
+other = "Email"
