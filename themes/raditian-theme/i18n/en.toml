@@ -14,25 +14,25 @@ other = 'CONTACT'
 other = 'I’m Chris.'
 
 [showcaseSubTitle]
-other = 'Your Tech Guru'
+other = 'Your Web App Guru'
 
 [showcaseBody]
-other = 'I am a software developer based in Petite Nation, Quebec. I love all things automation, modern web and digital business. I offer consulting and software development contracting services.'
+other = 'I am a software developer based in Petite Nation, Quebec. I offer consulting and software development contracting services. I build and maintain all kinds of software, but mainly web applications. I 💖 javascript and modern web development.'
 
 [showcaseButton]
 other = 'Ask me a question'
 
 [aboutTitle] 
-other = "Need Help?"
+other = "Does Your Business Need Help?"
 
 [aboutBody1]
-other = "Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas? Would you like to know more about what options are available to you?"
+other = "I can craft custom applications for the automation of business processes. I deploy and maintain software services and apps efficiently. Apps can consume data and events from many Software As A Service (SAAS) providers."
 
 [aboutBody2]
-other = "Contact me to discuss your requirements. I will create a proposal, and from there we can craft an efficient and elegant solution."
+other = "Contact me to discuss your requirements. I will create a proposal, and from there we can create something new!"
 
 [experienceTitle]
-other = "Choose Me!"
+other = "Why Choose Me?"
 
 [experienceDescription1]
 other = "More than 20 years of experience working in a variety of IT fields and roles: Software Development, System Administration, Security, Realtime Communications, Audio and Recording."
@@ -65,7 +65,7 @@ other = "Contributor and Maintainer"
 other = "Modern Web Features"
 
 [experienceBulletSub4]
-other = "Web Serial, Web Assembly, Web Audio"
+other = "Web GL, Web Serial, Web Assembly, Web Audio"
 
 [testimonialSectionTitle]
 other = "Testimonials"

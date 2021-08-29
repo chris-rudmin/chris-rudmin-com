@@ -11,28 +11,28 @@ other = 'TÉMOIGNAGES'
 other = 'CONTACT'
 
 [showcaseTitle]
-other = 'Je suis Chris.'
+other = "Je m'appelle Chris."
 
 [showcaseSubTitle]
-other = 'Votre gourou technologique'
+other = 'Votre gourou des Web App'
 
 [showcaseBody]
-other = "Je suis un développeur de logiciels basé à Petite Nation, Québec. J'aime tout ce qui concerne l'automatisation, le web moderne et les affaires numériques. J'offre des services de consultation et de développement de logiciels contractuel."
+other = "Je suis un développeur de logiciels basé à Petite Nation, Québec. J'offre des services de consultation et de passation de marchés de développement de logiciels. Je crée et maintient toutes sortes de logiciels, mais principalement des applications Web. Je 💖 javascript et développement web moderne."
 
 [showcaseButton]
 other = 'Posez-moi tes questions'
 
 [aboutTitle] 
-other = "Besoin d'aide ?"
+other = "Votre entreprise a-t-elle besoin d'aide ?"
 
 [aboutBody1]
-other = "Pensez-vous que votre entreprise peut être plus efficace avec un logiciel ? Avez-vous besoin de quelqu'un pour réaliser vos idées d'applications ? Vous souhaitez en savoir plus sur les options qui s'offrent à vous ?"
+other = "Je peux créer des applications personnalisées pour l'automatisation des processus commerciaux. Je déploie et maintient efficacement les services logiciels et les applications. Les applications peuvent consommer des données et des événements de nombreux fournisseurs de logiciels en tant que service (SAAS)."
 
 [aboutBody2]
-other = "Contactez-moi pour discuter de vos besoins. Je vais créer une proposition, et à partir de là, nous pourrons élaborer une solution efficace et élégante."
+other = "Contactez-moi pour discuter de vos besoins. Je vais créer une proposition, et à partir de là, nous pourrons créer quelque chose de nouveau !"
 
 [experienceTitle]
-other = "Choisissez-moi!"
+other = "Pourquoi me choisir ?"
 
 [experienceDescription1]
 other = "Plus de 20 ans d'expérience dans divers domaines et rôles informatiques : développement de logiciels, administration de systèmes, sécurité, communications en temps réel, audio et enregistrement."
@@ -41,7 +41,7 @@ other = "Plus de 20 ans d'expérience dans divers domaines et rôles informatiqu
 other = "Création d'applications multi-plateformes : web, mobile, desktop, serveur."
 
 [experienceDescription3]
-other = "A travaillé avec de nombreuses API de fournisseurs SAAS courantes : Shopify, Stripe, Google, Xero, AWS, Slack, Twilio."
+other = "A travaillé avec de nombreuses API de fournisseurs SAAS : Shopify, Stripe, Google, Xero, AWS, Slack, Twilio."
 
 [experienceBullet1]
 other = "Créer des applications Web"
@@ -65,7 +65,7 @@ other = "Contributeur et Mainteneur"
 other = "Fonctionnalités Web modernes"
 
 [experienceBulletSub4]
-other = "Web Serial, Web Assembly, Web Audio"
+other = "Web GL, Web Serial, Web Assembly, Web Audio"
 
 [testimonialSectionTitle]
 other = "Témoignages"
