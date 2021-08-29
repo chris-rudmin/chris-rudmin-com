@@ -4,6 +4,12 @@ other = "Chris Rudmin Software Developer"
 [home]
 other = 'HOME'
 
+[testimonials]
+other = 'TESTIMONIALS'
+
+[contact]
+other = 'CONTACT'
+
 [showcaseTitle]
 other = 'I’m Chris.'
 
@@ -23,7 +29,7 @@ other = "Need Help?"
 other = "Do you think your business can be made more efficient with software? Do you need someone to realize your app ideas? Would you like to know more about what options are available to you?"
 
 [aboutBody2]
-other = "I would love to understand where you need help and then craft an efficient and beautiful solution."
+other = "Contact me to discuss your business needs and requirements and we can create a proposal. From there all that is left is to craft an efficient and beautiful solution."
 
 [experienceTitle]
 other = "Choose Me!"
@@ -59,7 +65,7 @@ other = "Contributor and Maintainer"
 other = "Modern Web Features"
 
 [experienceBulletSub4]
-other = "Web Serial Hardware, WASM, Web Audio"
+other = "Web Serial, Web Assembly, Web Audio"
 
 [testimonialSectionTitle]
 other = "Testimonials"
@@ -72,3 +78,6 @@ other = "Paul Slomp & Josée Cyr-Charlebois"
 
 [testimonialBody]
 other = "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+
+[contactTitle]
+other = "Contact"

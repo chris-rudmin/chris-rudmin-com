@@ -8,13 +8,15 @@
     <div class="footer__links">
       <ul class="navbar-nav ">
         <li class="nav-item">
-          <a class="nav-link" href="/">HOME</a>
+          <a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}">{{ T "home" }}</a>
         </li>
-        {{ range .Site.Menus.footer }}
         <li class="nav-item">
-          <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name | upper }}</a>
+          <a data-scroll class="nav-link" href="#portfolio">{{ T "testimonials" }}</a>
         </li>
-        {{ end }}
+        <li class="nav-item">
+          <a data-scroll class="nav-link" href="#contact">{{ T "contact" }}</a>
+        </li>
+        {{ partial "language-switcher.html" . }}
       </ul>
     </div>
     <div class="footer__right">
