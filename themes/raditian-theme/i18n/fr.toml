@@ -1,5 +1,14 @@
+[title]
+other = "Chris Rudmin Développeur de logiciels"
+
 [home]
 other = 'ACCUEIL'
+
+[testimonials]
+other = 'TÉMOIGNAGES'
+
+[contact]
+other = 'CONTACT'
 
 [showcaseTitle]
 other = 'Je suis Chris.'
@@ -12,3 +21,81 @@ other = "Je suis un développeur de logiciels basé à Petite Nation, Québec. J
 
 [showcaseButton]
 other = 'Posez-moi tes questions'
+
+[aboutTitle] 
+other = "Besoin d'aide ?"
+
+[aboutBody1]
+other = "Pensez-vous que votre entreprise peut être plus efficace avec un logiciel ? Avez-vous besoin de quelqu'un pour réaliser vos idées d'applications ? Vous souhaitez en savoir plus sur les options qui s'offrent à vous ?"
+
+[aboutBody2]
+other = "Contactez-moi pour discuter de vos besoins. Je vais créer une proposition, et à partir de là, nous pourrons élaborer une solution efficace et élégante."
+
+[experienceTitle]
+other = "Choisissez-moi!"
+
+[experienceDescription1]
+other = "Plus de 20 ans d'expérience dans divers domaines et rôles informatiques : développement de logiciels, administration de systèmes, sécurité, communications en temps réel, audio et enregistrement."
+
+[experienceDescription2]
+other = "Création d'applications multi-plateformes : web, mobile, desktop, serveur."
+
+[experienceDescription3]
+other = "A travaillé avec de nombreuses API de fournisseurs SAAS courantes : Shopify, Stripe, Google, Xero, AWS, Slack, Twilio."
+
+[experienceBullet1]
+other = "Créer des applications Web"
+
+[experienceBulletSub1]
+other = "Javascript, Jamstack, Firebase, React"
+
+[experienceBullet2]
+other = "Intégrer les fournisseurs SAAS"
+
+[experienceBulletSub2]
+other = "Shopify, Stripe, Google, Slack"
+
+[experienceBullet3]
+other = "Logiciels open source"
+
+[experienceBulletSub3]
+other = "Contributeur et Mainteneur"
+
+[experienceBullet4]
+other = "Fonctionnalités Web modernes"
+
+[experienceBulletSub4]
+other = "Web Serial, Web Assembly, Web Audio"
+
+[testimonialSectionTitle]
+other = "Témoignages"
+
+[testimonialTitle]
+other = "Ferme Grazing Days"
+
+[testimonialSubTitle]
+other = "Paul Slomp & Josée Cyr-Charlebois"
+
+[testimonialBody]
+other = "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+
+[contactTitle]
+other = "Contact"
+
+[contactFullName]
+other = "Nom et prénom"
+
+[contactEmailPlaceholder]
+other = "Adresse courriel"
+
+[contactBody]
+other = "Ecrivez votre message ici"
+
+[contactSend]
+other = "Envoyer"
+
+[contactPhone]
+other = "Téléphone ou SMS"
+
+[contactEmail]
+other = "Courriel"
