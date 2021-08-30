@@ -58,7 +58,7 @@ contact:
     action: "https://getform.io/f/d61c29f1-1c23-49fe-a235-867d6ba1142c"
     method: "POST"
   phone:
-    number: '<a href="tel:18192007766">1 819 200 7766</a>'
+    number: '<a href="tel:18192007766">1 819-200-7766</a>'
   email:
     email: '<a href="mailto:chris@rudmin.com">chris@rudmin.com</a>'
   button:

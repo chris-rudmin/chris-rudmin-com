@@ -26,10 +26,10 @@ other = 'Ask me a question'
 other = "Does Your Business Need Help?"
 
 [aboutBody1]
-other = "I can craft custom applications for the automation of business processes. I deploy and maintain software services and apps efficiently. Apps can consume data and events from many Software As A Service (SAAS) providers."
+other = "I can craft custom applications for the automation of business processes. I deploy and maintain software services and apps efficiently. Apps can consume data and events from many software as a service (SAAS) providers."
 
 [aboutBody2]
-other = "Contact me to discuss your requirements. I will create a proposal, and from there we can create something new!"
+other = "Contact me to discuss your requirements. I will create a proposal, and from there we can create something exciting!"
 
 [experienceTitle]
 other = "Why Choose Me?"
