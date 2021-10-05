@@ -6,6 +6,7 @@
             <div class="row pt-2">
                 <div class="col-12 col-lg-7">
                     <form action="{{ .Site.Data.homepage.contact.form.action }}" method="{{ .Site.Data.homepage.contact.form.method }}">
+                        <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
                         <div class="row">
                             <div class="col-12 col-sm-6">
                                 <input type="text" name="name" id="full_name"
@@ -42,4 +43,12 @@
         </div>
     </div>
 </section>
+<script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Ldn8awcAAAAADCXTNJLXuYrayw4HFy6MAsagSXa', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+</script>
 {{ end }}
