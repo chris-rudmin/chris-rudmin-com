@@ -5,6 +5,7 @@
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta http-equiv=x-ua-compatible content="ie=edge">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GT9BSS0NMR"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6Ldn8awcAAAAADCXTNJLXuYrayw4HFy6MAsagSXa"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-GT9BSS0NMR')</script>
 <link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png>
 <link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
@@ -166,6 +167,7 @@ Chris Rudmin est un magicien ! Il a travaillé avec nous pour automatiser nos pr
 <div class="row pt-2">
 <div class="col-12 col-lg-7">
 <form action=https://getform.io/f/d61c29f1-1c23-49fe-a235-867d6ba1142c method=post>
+<input type=hidden id=captchaResponse name=g-recaptcha-response>
 <div class=row>
 <div class="col-12 col-sm-6">
 <input type=text name=name id=full_name placeholder="Nom et prénom">
@@ -199,6 +201,7 @@ Envoyer
 </div>
 </div>
 </section>
+<script>grecaptcha.ready(function(){grecaptcha.execute('6Ldn8awcAAAAADCXTNJLXuYrayw4HFy6MAsagSXa',{action:'homepage'}).then(function(a){document.getElementById('captchaResponse').value=a})})</script>
 <footer class=footer>
 <div class=container>
 <div class=footer__left>
